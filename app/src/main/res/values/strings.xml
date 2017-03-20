@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactsList</string>
+    <string name="action_settings">action_settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
